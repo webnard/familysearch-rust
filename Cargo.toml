@@ -1,0 +1,7 @@
+[package]
+name = "familysearch"
+version = "0.1.0"
+authors = ["Ian Hunter <ian@ianhunter.me>"]
+
+[dependencies]
+oauth-client = "0.1.2"
