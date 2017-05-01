@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Ian Hunter <ian@ianhunter.me>"]
 
 [dependencies]
-oauth-client = "0.1.2"
+hyper = "0.10"
+hyper-native-tls = "0.2"
